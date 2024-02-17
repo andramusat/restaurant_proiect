@@ -40,3 +40,7 @@ RUTE și COMENZI_RESTAURANT
 --> Rutele sunt asociate cu comenzile într-o relație de mulți la mulți prin intermediul tabelei "SCHIMB". Mai multe rute pot fi asociate cu mai multe comenzi. Data specifică a rutei este asociată cu data plasării comenzii.
 Aceste relații ajută la definirea modului în care datele dintr-o tabelă sunt legate de datele dintr-o altă tabelă, furnizând o structură pentru baza de date și facilitând interogările care implică mai multe tabele.
 
+[prezentare_restaurant.pdf](https://github.com/andramusat/restaurant_proiect/files/14319486/prezentare_restaurant.pdf)
+
+
+
